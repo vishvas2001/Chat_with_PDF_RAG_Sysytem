@@ -46,4 +46,4 @@ Created by Vishvas Parmar.
 
 ---
 
-**If like the idea, leave a star⭐.**
+**If you like the idea, leave a star⭐.**
