@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# PEP 582; used by e.g. python -m pip install --target
+__pypackages__/
+
+# Pytest
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# VS Code
+*.code-workspace
+
+# Database
+chroma_db/
+*.sqlite3
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
